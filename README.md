@@ -1,2 +1,2 @@
 # VVrecognition
- bla bla bla ... انسخ الكود
+ Voice recognition python bot demo project
