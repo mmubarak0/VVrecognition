@@ -1,2 +1,2 @@
 # VVrecognition
- Voice recognition python bot demo project
+ Voice recognition python talking chatbot demo project
